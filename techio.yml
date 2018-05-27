@@ -1,7 +1,7 @@
-title: Haskell Project
+title: Nightclazz Zenika Bordeaux Template
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Bonjour Haskell
+  statement: markdowns/1-welcome.md
 projects:
   haskell:
     root: /haskell-project
