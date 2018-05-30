@@ -1,0 +1,2 @@
+helloHaskell :: String
+helloHaskell = ""
